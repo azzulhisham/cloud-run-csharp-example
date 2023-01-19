@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1yxeg/E1MlWuj0K8FZHIw6mQG9PCg7HiES53hnuBTvQ=",
+  "Source": "helloworld-csharp",
+  "BasePath": "_content/helloworld-csharp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

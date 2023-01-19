@@ -1,0 +1,7 @@
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/helloworld-csharp
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/appsettings.Development.json
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/appsettings.json
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/helloworld-csharp.dll
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/helloworld-csharp.deps.json
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/helloworld-csharp.runtimeconfig.json
+/Users/zultan/sources/cloud-run/hello-world-csharp/helloworld-csharp/out/helloworld-csharp.pdb
