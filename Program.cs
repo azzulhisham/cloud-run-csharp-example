@@ -8,7 +8,7 @@ var target = Environment.GetEnvironmentVariable("TARGET") ?? "World";
 
 var app = builder.Build();
 
-app.MapGet("/", () => $"Hello {target}!");
+app.MapGet("/", () => $"Hello {target}! This is from the cloud...");
 
 app.Run(url);
 
